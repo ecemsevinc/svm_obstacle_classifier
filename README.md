@@ -1,4 +1,4 @@
-# svm-obstacle-classifier
+# Otonom Araç Navigasyon Sistemleri İçin Maksimum Güvenlikli Ayrıştırıcı Sınır Tasarımı
 
 Otonom araç navigasyon sistemleri için geliştirilmiş, Pegasos algoritması
 tabanlı Support Vector Machine sınıflandırıcısı. İki boyutlu koordinat
